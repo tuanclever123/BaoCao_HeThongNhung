@@ -1,2 +1,2 @@
 # BaoCao_HeThongNhung
-Code Server &amp; embeded
+Code Server &amp; Embedded
